@@ -1,7 +1,7 @@
 '''
 PYTHON PROGRAMME TO GET THE STUDENT DETAILS
 AUTHOR: JOSEPH
-DATE-1ST OCTOBER
+DATE: 1ST OCTOBER 2024
 '''
 print("hello world")
 name=input("enter the name of the student")
