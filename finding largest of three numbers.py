@@ -1,3 +1,10 @@
+'''Author=Joseph Francis
+   Date=22/10/2024
+   program to determine the largest of three nunmbers
+'''
+
+
+
 number1=int(input("Enter first number:"))
 number2=int(input("Enter second number:"))
 number3=int(input("Enter third number:"))
